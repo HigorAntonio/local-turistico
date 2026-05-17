@@ -6,7 +6,7 @@ Este projeto é uma landing page criada utilizando **HTML e CSS**.
 
 ## 🌐 Acesse o Projeto
 
-🔗 [Clique aqui para visualizar a página online](https://higorantonio.github.io](https://higorantonio.github.io/local-turistico/)
+🔗 [Clique aqui para visualizar a página online](https://higorantonio.github.io/local-turistico/)
 
 ## 🚀 Tecnologias Utilizadas
 
